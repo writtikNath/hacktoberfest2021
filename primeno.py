@@ -16,6 +16,7 @@ if num > 1:
             # if factor is found, set flag to True
             flag = True
             # break out of loop
+            print("We are breaking up here")
             break
 
 # check if flag is True
